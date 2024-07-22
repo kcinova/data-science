@@ -6,7 +6,7 @@ kcinova@usfca.edu
 
 Master of Science in Marketing Intelligence (August 2023 - June 2024)
 
-Bachelors of Science in Economics (September 2020 - June 2023)
+Bachelor of Science in Economics (September 2020 - June 2023)
 
 University of San Francisco & University of Economics in Bratislava
 
