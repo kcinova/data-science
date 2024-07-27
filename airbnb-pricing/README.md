@@ -4,8 +4,8 @@
 This project aims to analyze Airbnb property listings to predict rental prices, determine the percentage of full-time rental properties, identify the cheapest and most expensive neighborhoods, and assess the influence of crime rates on Airbnb prices in San Francisco.
 
 ## Project Structure
-- **data/**: Contains raw data used for analysis.
-- **code/**: Contains R scripts for various analyses.
+- **data**: Contains raw data used for analysis.
+- **code**: Contains R scripts for various analyses.
   - `1_predicting_rental_price_model_A.R`: Predicts rental prices based on bedrooms, bathrooms, and location (Inner Richmond).
   - `2_predicting_rental_price_model_B.R`: Extends the price prediction model by including amenities as a variable.
   - `3_influence_crime_rate.R`: Analyzes the influence of neighborhood crime rates on Airbnb prices.
@@ -27,11 +27,11 @@ This project aims to analyze Airbnb property listings to predict rental prices, 
    cd Airbnb_Pricing_and_Property_Analysis
 
 3. Install necessary R packages (if any):
-  ```bash
-  install.packages("dplyr")
-  install.packages("ggplot2")
-  install.packages("stringr")
-  # Add any other packages used in the scripts
+   ```bash
+    install.packages("dplyr")
+    install.packages("ggplot2")
+    install.packages("stringr")
+    #Add any other packages used in the scripts
 
 ## Running the Code
 To run the analysis, execute the R scripts in the `code` directory in the following order:
