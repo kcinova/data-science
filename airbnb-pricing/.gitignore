@@ -1,0 +1,51 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+.Rcheck/
+
+# RStudio files
+.Rproj.user/
+.Rproj.user/*
+
+# RStudio project files
+*.Rproj
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files
+data/
+*.xls
+*.xlsx
+*.sav
+*.dta
+*.sas7bdat
+*.feather
+*.parquet
+*.json
+*.rds
+
+# Output files (if any)
+output/
