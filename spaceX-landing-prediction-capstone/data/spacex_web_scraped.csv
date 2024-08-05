@@ -1,0 +1,143 @@
+Flight No.,Date,Time,Version Booster,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+1,4,June,F9 v1.0[7]B0003.1[8],"CCAFS,SLC-40",Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure[9][10](parachute)
+2,8,December,F9 v1.0[7]B0004.1[8],"CCAFS,SLC-40",Dragon demo flight C1(Dragon C101),,LEO (ISS),"NASA (COTS)
+NRO",Success[9],Failure[9][14](parachute)
+3,22,May,F9 v1.0[7]B0005.1[8],"CCAFS,SLC-40",Dragon demo flight C2+[18](Dragon C102),525,LEO (ISS),NASA (COTS),Success[20],No attempt
+4,8,October,F9 v1.0[7]B0006.1[8],"CCAFS,SLC-40",SpaceX CRS-1[22](Dragon C103),"4,700",LEO (ISS),NASA (CRS),Success,No attempt
+5,1,March,F9 v1.0[7]B0007.1[8],"CCAFS,SLC-40",SpaceX CRS-2[22](Dragon C104),"4,877",LEO (ISS),NASA (CRS),Success,No attempt
+6,29,September,F9 v1.1[7]B1003[8],"VAFB,SLC-4E",CASSIOPE[22][31],500,Polar orbit LEO,MDA,Success[30],Uncontrolled(ocean)[d]
+7,3,December,F9 v1.1B1004,"CCAFS,SLC-40",SES-8[22][35][36],"3,170",GTO,SES,Success[37],No attempt[38]
+8,6,January,F9 v1.1,"CCAFS,SLC-40",Thaicom 6[22],"3,325",GTO,Thaicom,Success[42],No attempt[43]
+9,18,April,F9 v1.1,"Cape Canaveral,LC-40",SpaceX CRS-3[22](Dragon C105),"2,296",LEO (ISS),NASA (CRS),Success,Controlled(ocean) [d][46]
+10,14,July,F9 v1.1,"Cape Canaveral,LC-40",Orbcomm-OG2-1(6 satellites)[22],"1,316",LEO,Orbcomm,Success[51],Controlled(ocean)[d][46]
+11,5,August,F9 v1.1,"Cape Canaveral,LC-40",AsiaSat 8[22][54][55],"4,535",GTO,AsiaSat,Success[56],No attempt[57]
+12,7,September,F9 v1.1B1011[8],"Cape Canaveral,LC-40",AsiaSat 6[22][54][58],"4,428",GTO,AsiaSat,Success[59],No attempt
+13,21,September,F9 v1.1B1010[8],"Cape Canaveral,LC-40",SpaceX CRS-4[22](Dragon C106.1),"2,216",LEO (ISS),NASA (CRS),Success[63],Uncontrolled(ocean)[d][64]
+14,10,January,F9 v1.1B1012[8],"Cape Canaveral,LC-40",SpaceX CRS-5[68](Dragon C107),"2,395",LEO (ISS),NASA (CRS),Success[70],Failure (drone ship)
+15,11,February,F9 v1.1B1013[8],"Cape Canaveral,LC-40",DSCOVR[68][73],570,HEO(Sun–Earth L1 insertion),"USAF
+NASA
+NOAA",Success,Controlled(ocean)[d]
+16,2,March,F9 v1.1B1014[8],"Cape Canaveral,LC-40","ABS-3A
+Eutelsat 115 West B[68]","4,159",GTO,"ABS
+Eutelsat",Success,No attempt[77]
+17,14,April,F9 v1.1B1015[8],"Cape Canaveral,LC-40",SpaceX CRS-6[68](Dragon C108.1),"1,898",LEO (ISS),NASA (CRS),Success,Failure[83](drone ship)
+18,27,April,F9 v1.1B1016[8],"Cape Canaveral,LC-40",TürkmenÄlem 52°E / MonacoSAT[68][87],"4,707",GTO,Turkmenistan NationalSpace Agency[88],Success,No attempt[89]
+19,28,June,F9 v1.1B1018[8],"Cape Canaveral,LC-40",SpaceX CRS-7[68](Dragon C109),"1,952",LEO (ISS),NASA (CRS),Failure[93](in flight),Precluded[94](drone ship)
+20,22,December,F9 FTB1019.1[98],"Cape Canaveral,LC-40",Orbcomm-OG2-2(11 satellites)[22][97],"2,034",LEO,Orbcomm,Success,Success[99](ground pad)
+21,17,January,F9 v1.1B1017[8],"VAFB,SLC-4E",Jason-3[68][104],553,LEO,"NASA (LSP)
+NOAA
+CNES",Success,Failure(drone ship)
+22,4,March,F9 FTB1020.1[108],"Cape Canaveral,LC-40",SES-9[68][109][110],"5,271",GTO,SES,Success,Failure(drone ship)
+23,8,April,F9 FTB1021.1[115],"Cape Canaveral,LC-40",SpaceX CRS-8[68][110](Dragon C110.1),"3,136",LEO (ISS),NASA (CRS),Success[117],Success[118](drone ship)
+24,6,May,F9 FTB1022.1[122],"Cape Canaveral,LC-40",JCSAT-14[123],"4,696",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+25,27,May,F9 FTB1023.1[129],"Cape Canaveral,LC-40",Thaicom 8[130][131],"3,100",GTO,Thaicom,Success,Success[133](drone ship)
+26,15,June,F9 FTB1024.1[108],"Cape Canaveral,LC-40","ABS-2A
+Eutelsat 117 West B[68]","3,600",GTO,"ABS
+Eutelsat",Success,Failure[64](drone ship)
+27,18,July,F9 FTB1025.1[129],"Cape Canaveral,LC-40",SpaceX CRS-9[68][141](Dragon C111.1),"2,257",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+28,14,August,F9 FTB1026.1[108],"Cape Canaveral,LC-40",JCSAT-16,"4,600",GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+29,14,January,F9 FTB1029.1[151],"VAFB,SLC-4E",Iridium NEXT-1(10 satellites)[152][153],"9,600",Polar LEO,Iridium Communications,Success,Success[154](drone ship)
+30,19,February,F9 FTB1031.1[8],"KSC,LC-39A",SpaceX CRS-10[141](Dragon C112.1),"2,490",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+31,16,March,F9 FTB1030.1[163],"KSC,LC-39A",EchoStar 23,"5,600",GTO,EchoStar,Success,No attempt[165]
+32,30,March,F9 FT ♺B1021.2[115],"KSC,LC-39A",SES-10[109][168],"5,300",GTO,SES,Success[170],Success(drone ship)
+33,1,May,F9 FTB1032.1[129],"KSC,LC-39A",NROL-76[174],Classified,LEO[175],NRO,Success,Success(ground pad)
+34,15,May,F9 FTB1034.1[179],"KSC,LC-39A",Inmarsat-5 F4[180],"6,070",GTO,Inmarsat,Success,No attempt[165]
+35,3,June,F9 FTB1035.1[185],"KSC,LC-39A",SpaceX CRS-11[141](Dragon C106.2 ♺),"2,708",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+36,23,June,F9 FT ♺ B1029.2[195],"KSC,LC-39A",BulgariaSat-1[196],"3,669",GTO,Bulsatcom,Success,Success(drone ship)
+37,25,June,F9 FTB1036.1[198],"VAFB,SLC-4E",Iridium NEXT-2(10 satellites),"9,600",LEO,Iridium Communications,Success,Success(drone ship)
+38,5,July,F9 FTB1037.1[200],"KSC,LC-39A",Intelsat 35e[201],"6,761",GTO,Intelsat,Success,No attempt[165]
+39,14,August,F9 B4B1039.1[207],"KSC,LC-39A",SpaceX CRS-12[141](Dragon C113.1),"3,310",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+40,24,August,F9 FTB1038.1[209],"VAFB,SLC-4E",Formosat-5[210][211],475,SSO,NSPO,Success,Success(drone ship)
+41,7,September,F9 B4B1040.1[108],"KSC,LC-39A",Boeing X-37B OTV-5,"4,990",LEO,USAF,Success,Success(ground pad)
+42,9,October,F9 B4B1041.1[219],"VAFB,SLC-4E",Iridium NEXT-3(10 satellites)[152],"9,600",Polar LEO,Iridium Communications,Success,Success(drone ship)
+43,11,October,F9 FT ♺ B1031.2[220],"KSC,LC-39A",SES-11 / EchoStar 105,"5,200",GTO,"SES S.A.
+EchoStar",Success,Success(drone ship)
+44,30,October,F9 B4B1042.1[219],"KSC,LC-39A",Koreasat 5A[222],"3,500",GTO,KT Corporation,Success,Success(drone ship)
+45,15,December,F9 FT ♺ B1035.2[227],"Cape Canaveral,SLC-40",SpaceX CRS-13[141](Dragon C108.2 ♺),"2,205",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+46,23,December,F9 FT ♺ B1036.2[227],"VAFB,SLC-4E",Iridium NEXT-4(10 satellites)[152],"9,600",Polar LEO,Iridium Communications,Success[230],Controlled(ocean)[d][230]
+47,8,January,F9 B4B1043.1[238],"CCAFS,SLC-40",Zuma[238][239][240],Classified,LEO,Northrop Grumman [f][238],Success[241],Success(ground pad)
+48,31,January,F9 FT ♺ B1032.2[245],"CCAFS,SLC-40",GovSat-1 (SES-16)[246],"4,230",GTO,SES,Success[248],Controlled(ocean)[d][248]
+49,22,February,F9 FT ♺B1038.2[268],"VAFB,SLC-4E","Paz[269]
+Tintin A and Tintin B[270]","2,150",SSO,"Hisdesat
+exactEarth
+SpaceX",Success[271],No attempt[271]
+50,6,March,F9 B4B1044.1[108],"CCAFS,SLC-40","Hispasat 30W-6[277]
+PODSat[278]","6,092",GTO,"Hispasat[277]
+NovaWurks",Success[280],No attempt[281]
+51,30,March,F9 B4 ♺B1041.2[268],"VAFB,SLC-4E",Iridium NEXT-5(10 satellites)[152],"9,600",Polar LEO,Iridium Communications,Success[286],No attempt[287]
+52,2,April,F9 B4 ♺B1039.2[292],"CCAFS,SLC-40",SpaceX CRS-14[141](Dragon C110.2 ♺),"2,647",LEO (ISS),NASA (CRS),Success[293],No attempt[294]
+53,18,April,F9 B4B1045.1[268],"CCAFS,SLC-40",Transiting Exoplanet Survey Satellite (TESS)[304],362,HEO for P/2 orbit,NASA (LSP),Success[306],Success[306](drone ship)
+54,11,May,F9 B5[311]B1046.1[268],"KSC,LC-39A",Bangabandhu-1[312][313],"3,600",GTO,Thales-Alenia / BTRC,Success[315],Success[315](drone ship)
+55,22,May,F9 B4 ♺B1043.2[322],"VAFB,SLC-4E","Iridium NEXT-6(5 satellites)[152][155]
+GRACE-FO × 2[323][324]","6,460",Polar LEO,"Iridium Communications
+GFZ • NASA",Success[327],No attempt[165]
+56,4,June,F9 B4 ♺B1040.2[268],"CCAFS,SLC-40",SES-12[331],"5,384",GTO,SES,Success[333],No attempt[165]
+57,29,June,F9 B4 ♺B1045.2[336],"CCAFS,SLC-40",SpaceX CRS-15(Dragon C111.2 ♺),"2,697",LEO (ISS),NASA (CRS),Success[338],No attempt[165]
+58,22,July,F9 B5B1047.1,"CCAFS,SLC-40",Telstar 19V[341],"7,075",GTO[343],Telesat,Success[344],Success[344](drone ship)
+59,25,July,F9 B5[349]B1048.1[350],"VAFB,SLC-4E",Iridium NEXT-7(10 satellites)[152],"9,600",Polar LEO,Iridium Communications,Success[351],Success[352](drone ship)
+60,7,August,F9 B5 ♺ B1046.2[354],"CCAFS,SLC-40",Merah Putih (formerly Telkom 4)[355][356],"5,800",GTO,Telkom Indonesia,Success[358],Success[358](drone ship)
+61,10,September,F9 B5B1049.1[268],"CCAFS,SLC-40",Telstar 18V / Apstar-5C[341],"7,060",GTO[361],Telesat,Success[361],Success[361](drone ship)
+62,8,October,F9 B5 ♺B1048.2[364],"VAFB,SLC-4E",SAOCOM 1A[365][366],"3,000",SSO,CONAE,Success[363],Success[363](ground pad)
+63,15,November,F9 B5 ♺B1047.2[268],"KSC,LC-39A",Es'hail 2[368],"5,300",GTO,Es'hailSat,Success[370],Success[370](drone ship)
+64,3,December,F9 B5 ♺ B1046.3[268]SHERPA,"VAFB,SLC-4E",SSO-A (SmallSat Express),"~4,000",SSO,Spaceflight Industries,Success[373],Success[373](drone ship)
+65,5,December,F9 B5B1050[268],"CCAFS,SLC-40",SpaceX CRS-16(Dragon C112.2♺ ),"2,500",LEO (ISS),NASA (CRS),Success,Failure[383](ground pad)
+66,23,December,F9 B5B1054[387],"CCAFS,SLC-40",GPS III-01 (Vespucci),"4,400",MEO,USAF,Success[386],No attempt[386]
+67,11,January,F9 B5 ♺B1049.2[397],"VAFB,SLC-4E",Iridium NEXT-8(10 satellites)[152],"9,600",Polar LEO,Iridium Communications,Success,Success(drone ship)
+68,22,February,F9 B5 ♺B1048.3[399],"CCAFS,SLC-40","Nusantara Satu (PSN-6)[400]
+Beresheet Moon lander[401]
+S5[402]","4,850",GTO,"PSN
+SpaceIL / IAI
+Air Force Research",Success,Success(drone ship)
+69,2,March,F9 B5B1051.1[268][413],"KSC,LC-39A",Crew Dragon Demo-1[414](Dragon C201),"12,055",LEO (ISS),NASA (CCD),Success,Success(drone ship)
+70,4,May,F9 B5B1056.1[420],"CCAFS,SLC-40",SpaceX CRS-17[141](Dragon C113.2 ♺),"2,495",LEO (ISS),NASA (CRS),Success,Success(drone ship)
+71,24,May,F9 B5 ♺B1049.3[434],"CCAFS,SLC-40",Starlink v0.9 (60 satellites),"13,620",LEO,SpaceX,Success,Success(drone ship)
+72,12,June,F9 B5 ♺B1051.2[420],"VAFB,SLC-4E",RADARSAT Constellation(3 satellites),"4,200",SSO,Canadian Space Agency (CSA),Success,Success(ground pad)
+73,25,July,F9 B5 ♺B1056.2[465],CCAFSSLC-40,SpaceX CRS-18[141](Dragon C108.3 ♺),"2,268",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+74,6,August,F9 B5 ♺B1047.3[472],"CCAFS,SLC-40",AMOS-17[473],"6,500",GTO,Spacecom,Success,No attempt[474]
+75,11,November,F9 B5 ♺B1048.4,"CCAFS,SLC-40",Starlink 1 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+76,5,December,F9 B5B1059.1[482],"CCAFS,SLC-40",SpaceX CRS-19[483](Dragon C106.3 ♺),"2,617",LEO (ISS),NASA (CRS),Success,Success(drone ship)
+77,17,December,F9 B5 ♺B1056.3[482],"CCAFS,SLC-40",JCSat-18 / Kacific 1[487],"6,956",GTO,Sky Perfect JSATKacific 1,Success,Success(drone ship)
+78,7,January,F9 B5 ♺ B1049.4,"CCAFS,SLC-40",Starlink 2 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+79,19,January,F9 B5 ♺ B1046.4,"KSC,LC-39A",Crew Dragon in-flight abort test[495](Dragon C205.1),"12,050",Sub-orbital[496],NASA (CTS)[497],Success,No attempt
+80,29,January,F9 B5 ♺B1051.3,"CCAFS,SLC-40",Starlink 3 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+81,17,February,F9 B5 ♺B1056.4,"CCAFS,SLC-40",Starlink 4 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Failure(drone ship)
+82,7,March,F9 B5 ♺B1059.2,"CCAFS,SLC-40",SpaceX CRS-20(Dragon C112.3 ♺),"1,977",LEO (ISS),NASA (CRS),Success,Success(ground pad)
+83,18,March,F9 B5 ♺ B1048.5,"KSC,LC-39A",Starlink 5 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Failure(drone ship)
+84,22,April,F9 B5 ♺B1051.4,"KSC,LC-39A",Starlink 6 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+85,30,May,F9 B5B1058.1[518],"KSC,LC-39A",Crew Dragon Demo-2[414](Crew Dragon C206.1 Endeavour),"12,530",LEO (ISS),NASA (CCDev),Success,Success(drone ship)
+86,4,June,F9 B5 ♺B1049.5,"CCAFS,SLC-40",Starlink 7 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+87,13,June,F9 B5 ♺B1059.3,"CCAFS,SLC-40","Starlink 8 v1.0 (58 satellites),[524][525]SkySats-16, -17, -18","15,410",LEO,SpaceXPlanet Labs,Success,Success(drone ship)
+88,30,June,F9 B5B1060.1,"CCAFS,SLC-40",GPS III-03 (Matthew Henson),"4,311",MEO,U.S. Space Force[530],Success,Success(drone ship)
+89,20,July,F9 B5 ♺ B1058.2[544],"CCAFS,SLC-40",ANASIS-II,"5,000–6,000",GTO,Republic of Korea Army,Success,Success(drone ship)
+90,7,August,F9 B5 ♺B1051.5,"KSC,LC-39A","Starlink 9 v1.0 (57 Satellites),[524]SXRS-1 (BlackSky Global 7 and 8)","14,932",LEO,SpaceXSpaceflight Industries (BlackSky),Success,Success(drone ship)
+91,18,August,F9 B5 ♺B1049.6[544],"CCAFS,SLC-40","Starlink 10 v1.0 (58 satellites)SkySat-19, -20, -21","~15,440",LEO,SpaceXPlanet Labs,Success,Success(drone ship)
+92,30,August,F9 B5 ♺B1059.4,"CCAFS,SLC-40",SAOCOM 1B[556]GNOMES 1[556]Tyvak-0172[557],"3,130",SSO,CONAEPlanetIQTyvak,Success,Success(ground pad)
+93,3,September,F9 B5 ♺B1060.2[563],"KSC,LC-39A",Starlink 11 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+94,6,October,F9 B5 ♺B1058.3[565],"KSC,LC-39A",Starlink 12 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+95,18,October,F9 B5 ♺B1051.6[568],"KSC,LC-39A",Starlink 13 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+96,24,October,F9 B5 ♺B1060.3,"CCAFS,SLC-40",Starlink 14 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+97,5,November,F9 B5B1062.1,"CCAFS,SLC-40",GPS III-04 (Sacagawea)[541][573],"4,311",MEO,USSF,Success,Success(drone ship)
+98,16,November,F9 B5B1061.1[582],"KSC,LC-39A",Crew-1(Crew Dragon C207.1 Resilience),"~12,500",LEO (ISS),NASA (CCP)[497],Success,Success(drone ship)
+99,21,November,F9 B5B1063.1,"VAFB,SLC-4E",Sentinel-6 Michael Freilich (Jason-CS A),"1,192",LEO,NASA / NOAA / ESA / EUMETSAT,Success,Success(ground pad)
+100,25,November,F9 B5 ♺B1049.7[590],"CCAFS,SLC-40",Starlink 15 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+101,6,December,F9 B5 ♺B1058.4[592],"KSC,LC-39A",SpaceX CRS-21(Dragon C208.1),"2,972",LEO (ISS),NASA (CRS),Success,Success(drone ship)
+102,13,December,F9 B5 ♺B1051.7,"CCSFS,SLC-40[597]",SXM-7,"7,000",GTO,Sirius XM,Success,Success(drone ship)
+103,19,December,F9 B5 ♺B1059.5,"KSC,LC-39A",NROL-108,Classified,LEO,NRO,Success,Success(ground pad)
+104,8,January,F9 B5 ♺B1060.4,"CCSFS,SLC-40",Türksat 5A[605],"3,500",GTO,Türksat,Success,Success(drone ship)
+105,20,January,F9 B5 ♺B1051.8[609],"KSC,LC-39A",Starlink 16 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+106,24,January,F9 B5 ♺B1058.5[613],"CCSFS,SLC-40",Transporter-1 (143 smallsat rideshare),"~5,000",SSO,Various,Success,Success(drone ship)
+107,4,February,F9 B5 ♺B1060.5[624],"CCSFS,SLC-40",Starlink 18 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+108,16,February,F9 B5 ♺B1059.6,"CCSFS,SLC-40",Starlink 19 v1.0 (60 satellites)[627],"15,600",LEO,SpaceX,Success,Failure (drone ship)
+109,4,March,F9 B5 ♺B1049.8[634],"KSC,LC-39A",Starlink 17 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+110,11,March,F9 B5 ♺B1058.6[638],"CCSFS,SLC-40",Starlink 20 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+111,14,March,F9 B5 ♺B1051.9,"KSC,LC-39A",Starlink 21 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+112,24,March,F9 B5 ♺B1060.6[643],"CCSFS,SLC-40",Starlink 22 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+113,7,April,F9 B5 ♺B1058.7,"CCSFS,SLC-40",Starlink 23 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+114,23,April,F9 B5 ♺B1061.2[647],"KSC,LC-39A",Crew-2(Crew Dragon C206.2 Endeavour ♺),"~13,000",LEO (ISS),NASA (CTS)[497],Success,Success(drone ship)
+115,29,April,F9 B5 ♺B1060.7[652],"CCSFS,SLC-40",Starlink 24 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+116,4,May,F9 B5 ♺B1049.9[655],"KSC,LC-39A",Starlink 25 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+117,9,May,F9 B5 ♺B1051.10[657],"CCSFS,SLC-40",Starlink 27 v1.0 (60 satellites),"15,600",LEO,SpaceX,Success,Success(drone ship)
+118,15,May,F9 B5 ♺B1058.8[660],"KSC,LC-39A[661]",Starlink 26 v1.0 (52 Satellites) Capella-6 &Tyvak-0130[662],"~14,000",LEO,SpaceX Capella Space and Tyvak,Success,Success(drone ship)
+119,26,May,F9 B5 ♺B1063.2[665],"CCSFS,SLC-40[665]",Starlink 28 v1.0 (60 Satellites)[665],"15,600",LEO,SpaceX,Success,Success(drone ship)
+120,3,June,F9 B5 B1067.1[668],"KSC,LC-39A",SpaceX CRS-22(Dragon C209.1),"3,328",LEO (ISS),NASA (CRS),Success,Success(drone ship)
+121,6,June,F9 B5 ♺ B1061.3,"CCSFS,SLC-40",SXM-8[674],"7,000",GTO,Sirius XM,Success,Success(drone ship)
