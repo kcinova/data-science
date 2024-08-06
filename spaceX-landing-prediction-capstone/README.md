@@ -1,3 +1,5 @@
+![Capstone SpaceX Presentation Slide](https://github.com/kcinova/data-science/blob/main/spaceX-landing-prediction-capstone/images/spacex-slide.png)
+
 # SpaceX Falcon 9 First Stage Landing Prediction 🚀
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-99.9%25-orange) ![Pandas](https://img.shields.io/badge/pandas-1.3.2-blue) ![License](https://img.shields.io/badge/License-MIT-yellow) 
@@ -19,7 +21,7 @@ This repository contains a project developed as part of the **Applied Data Scien
 
 ## Introduction
 
-In this project, we predict whether the first stage of the SpaceX Falcon 9 will successfully land, enabling the estimation of launch costs. This prediction is critical for competing companies seeking to bid against SpaceX for launch contracts.
+In this project, we predict whether the first stage of the SpaceX Falcon 9 will successfully land, enabling the estimation of launch costs. This prediction is good to know for competing companies seeking to bid against SpaceX for launch contracts.
 
 ## About the Course
 
@@ -44,6 +46,10 @@ This project is part of the **Applied Data Science Capstone** course by IBM, whi
 - **`5-spacex-eda-dataviz.ipynb`**: Data visualization and exploration.
 - **`6-spacex-machine-learning-prediction.jupyterlite.ipynb`**: Machine learning model development and evaluation.
 
+### Presentation
+
+- **`spaceX-capstone-presentation.pdf`**: Capstone presentation made with Canva - live link: https://canva.com/design/DAGNB2UNP4c/NxbsNlFMXqaDkIIHR-JluQ/view?utm_content=DAGNB2UNP4c&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Data Collection and Preparation
 
 We collected data using RESTful APIs and web scraping. The data was cleaned and processed, resulting in multiple datasets stored in CSV files and a SQLite database for efficient querying and manipulation.
@@ -56,7 +62,12 @@ We collected data using RESTful APIs and web scraping. The data was cleaned and 
 
 Performed extensive EDA using SQL and various visualization tools. Insights were gathered about the launch outcomes, launch sites, and other key features.
 
+- [EDA using SQL and SQLite](https://github.com/kcinova/data-science/blob/main/spaceX-landing-prediction-capstone/code/4-spacex-eda-sql-sqlite.ipynb)
+- [Data Visualization and Exploration](https://github.com/kcinova/data-science/blob/main/spaceX-landing-prediction-capstone/code/5-spacex-eda-dataviz.ipynb)
+
 ## Model Development
+
+[Prediction with machine learning](https://github.com/kcinova/data-science/blob/main/spaceX-landing-prediction-capstone/code/6-spacex-machine-learning-prediction.jupyterlite.ipynb)
 
 We developed and compared several machine learning models, including:
 
@@ -67,19 +78,15 @@ We developed and compared several machine learning models, including:
 
 ## Results and Findings
 
-The evaluation metrics for the models included accuracy, precision, recall, and F1 score. The best model based on the evaluation metrics was identified. SVM, and KNN showed similar performance metrics.
+Evaluation metrics were used to determine the best model, focusing on accuracy, precision, recall, and F1 score.
 
-### Best Model: **Logistic Regression**
-- **Accuracy**: 0.8333
-- **Precision**: 0.8000
-- **Recall**: 1.0000
-- **F1 Score**: 0.8889
+### Best Model: **Decision Tree**
+- **Validation Accuracy**: 0.8732
+- **Test Accuracy**: 0.8333
 
 ## Model Performance Comparison
 
-For an interactive comparison of model performance, [click here](https://github.com/kcinova/data-science/raw/main/spaceX-landing-prediction-capstone/model_performance_comparison.html).
-
-![Model Performance](https://github.com/kcinova/data-science/raw/main/spaceX-landing-prediction-capstone/model_performance_comparison.png)
+![Model Performance](https://github.com/kcinova/data-science/raw/main/spaceX-landing-prediction-capstone/images/best_model_scores.png)
 
 ## How to Use
 
@@ -115,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Authors
 
-[Kristina Cinova](https://www.linkedin.com/in/kristinacinova/)
+[Kristina Cinova](https://www.linkedin.com/in/kristinacinova/) ([IBM Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BM2NHZDUB70Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof))
 
 ## Acknowledgements
 
